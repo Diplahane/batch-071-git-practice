@@ -1,0 +1,3 @@
+hello all from ec2 to git
+
+updated not 
