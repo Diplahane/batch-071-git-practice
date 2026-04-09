@@ -1,3 +1,6 @@
 task-1----
 task-2 after build perodicaly
 task -3 after poll SCM
+
+
+day-2 updated
