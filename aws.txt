@@ -1,2 +1,3 @@
 hello now i am updated 
 now updatewd for Pipeline output
+now maven is added in stage 2
